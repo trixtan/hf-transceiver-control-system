@@ -1,0 +1,15 @@
+#ifndef PINMAP_H
+#define PINMAP_H
+
+#define KEYPAD_ROW1_PIN D6
+#define KEYPAD_ROW2_PIN D7
+#define KEYPAD_ROW3_PIN D8
+#define KEYPAD_ROW4_PIN D9
+
+#define KEYPAD_COL1_PIN D2
+#define KEYPAD_COL2_PIN D3
+#define KEYPAD_COL3_PIN D4
+#define KEYPAD_COL4_PIN D5
+
+#endif
+
